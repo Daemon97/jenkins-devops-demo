@@ -11,7 +11,7 @@ def home():
         </head>
         <body>
             <h1>Hello from Jenkins CI/CD!</h1>
-            <h2>Version: 3.0</h2>
+            <h2>Version: 4.0</h2>
             <p>Environment: Production</p>
         </body>
     </html>
